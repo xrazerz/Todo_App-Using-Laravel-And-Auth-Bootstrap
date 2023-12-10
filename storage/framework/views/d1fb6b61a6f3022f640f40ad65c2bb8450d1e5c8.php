@@ -1,0 +1,1 @@
+<?php /**PATH C:\laragon\www\Laravel Revision\todo-app\resources\views/home.blade.php ENDPATH**/ ?>
